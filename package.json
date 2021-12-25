@@ -1,6 +1,6 @@
 {
   "name": "sarv-dragula",
-  "version": "3.7.3",
+  "version": "3.7.5",
   "description": "Drag and drop so simple it hurts - fix SSR",
   "main": "dragula.js",
   "scripts": {
